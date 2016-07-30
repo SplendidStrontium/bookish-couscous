@@ -1,9 +1,7 @@
 [{
-	"name": "Acid Splash",
+	"name": "",
 	"type": ["", "", ""],
 	"level": [{
-		"": ""
-	},{
 		"": ""
 	}],
 	"components": "",
