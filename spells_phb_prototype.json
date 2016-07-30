@@ -1,0 +1,21 @@
+[{
+	"name": "Acid Splash",
+	"type": ["", "", ""],
+	"level": [{
+		"": ""
+	},{
+		"": ""
+	}],
+	"components": "",
+	"casting_time": "",
+	"range": "",
+	"area": "",
+	"effect": "",
+	"target": "",
+	"duration": "",
+	"saving_throw": "",
+	"spell_resistance": "",
+	"description": ""
+},{
+	"name": "Acid Splash"
+}]
